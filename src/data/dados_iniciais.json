@@ -1,0 +1,160 @@
+{
+    "categorias": [
+      {
+        "titulo": "Lançamentos",
+        "link": "https://youtu.be/K8hJgHo0_FU",
+        "cor": "#6BD1FF",
+        "videos": [
+          {
+            "titulo": "Um novo Bleach? Ou a nova revelação no mundo dos shounen? Veja o trailer ao lado e tire sua conclusão.",
+            "url": "https://youtu.be/K8hJgHo0_FU"
+          },
+          {
+            "titulo": "The day i became a god",
+            "url": "https://youtu.be/7dzhIJrzi4Y"
+          },
+          {
+            "titulo": "Kimi wa Kanata Movie (2020)",
+            "url": "https://youtu.be/VSmSOwBDsGI"
+          },
+          {
+            "titulo": "Given: MOVIE Trailer",
+            "url": "https://youtu.be/_FrTm4d6Q_o"
+          },
+          {
+            "titulo": "Sword Art Online Alicization of Underworld part 2",
+            "url": "https://youtu.be/WI7Lk4s-77Q"
+          },
+          {
+            "titulo": "Attack on Titan: The final season",
+            "url": "https://www.youtube.com/watch?v=c14MVY3EVaQ"
+          },
+          {
+            "titulo": "Violet Evergarden Movie (2020)",
+            "url": "https://www.youtube.com/watch?v=pocuRimEseM"
+          }      
+        ]
+      },
+      {
+        "titulo": "Openings",
+        "cor": "#00C86F",
+        "videos": [
+          {
+            "titulo": "DECA-DENCE - Theather of Life",
+            "url": "https://www.youtube.com/watch?v=n83X1ao7D6I"
+          },
+          {
+            "titulo": "Fire force 2 - Again (By Spark)",
+            "url": "https://www.youtube.com/watch?v=xLGtT8WuidM"
+          },
+          {
+            "titulo": "The God of Highschool - Contradition (feat. Tyler Carter)",
+            "url": "https://www.youtube.com/watch?v=eRJyYfAq2tk"
+          },
+          {
+            "titulo": "Kimetsu no Yaiba - Gurenge (By LiSA)",
+            "url": "https://www.youtube.com/watch?v=pmanD_s7G3U"
+          }, 
+          {
+            "titulo": "Tokyo Ghoul - Unravel",
+            "url": "https://www.youtube.com/watch?v=uMeR2W19wT0"
+          }
+        ]
+      },
+      {
+        "titulo": "Endings",
+        "cor": "#9cd33b",
+        "videos": [
+          {
+            "titulo": "The God of Highschool - Win (By Cix)",
+            "url": "https://www.youtube.com/watch?v=O669LKM6XDQ"
+          },
+          {
+            "titulo": "DECA-DENCE - Kioku no Hakobune (Theme Ending)",
+            "url": "https://www.youtube.com/watch?v=UJMs2XSSgik"
+          },
+          {
+            "titulo": "Listeners - Slumber (Theme Ending 9)",
+            "url": "https://www.youtube.com/watch?v=Ydjehy8bXBU"
+          },
+          {
+            "titulo": "Gleipnir - Ame to Taieki to Noi (Theme Ending)",
+            "url": "https://www.youtube.com/watch?v=27iGWICln7Y"
+          }
+        ]
+      },
+      {
+        "titulo": "Shoujo (Romance)",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Ao Haru Ride",
+            "url": "https://www.youtube.com/watch?v=78k9Rh7kiRo"
+          },
+          {
+            "titulo": "Citrus Trailer",
+            "url": "https://www.youtube.com/watch?v=OZohqCtdwiU"
+          },
+          {
+            "titulo": "Koe no Katachi",
+            "url": "https://www.youtube.com/watch?v=nfK6UgLra7g"
+          },
+          {
+            "titulo": "O filme mais triste da minha vida",
+            "url": "https://www.youtube.com/watch?v=VNdHd1asf9s"
+          }
+        ]
+      },
+      {
+        "titulo": "AMV (Anime Music Video)",
+        "videos": [
+          {
+            "titulo": "Rock Lee vs Gaara",
+            "url": "https://www.youtube.com/watch?v=VgDgWzBL7s4"
+          },
+          {
+            "titulo": "Amv HXH",
+            "url": "https://www.youtube.com/watch?v=pVMdtWsbhTw"
+          },
+          {
+            "titulo": "Busou Shoujo AMV",
+            "url": "https://www.youtube.com/watch?v=PPqETVFYt5Q"
+          },
+          {
+            "titulo": "AMV One Piece",
+            "url": "https://www.youtube.com/watch?v=PNone9Lsmzk"
+          },
+          {
+            "titulo": "Amv Mix",
+            "url": "https://www.youtube.com/watch?v=5zcoph3SlaI"
+          }
+        ]
+      },
+      {
+        "titulo": "Rap Animes",
+        "cor": "#6b5be2",
+        "videos": [
+          {
+            "titulo": "Rap do Itachi",
+            "url": "https://www.youtube.com/watch?v=zs_zpMnwNMs"
+          },
+          {
+            "titulo": "Rap do Rayquaza",
+            "url": "https://www.youtube.com/watch?v=MYTmE2brxqg"
+          },
+          {
+            "titulo": "Rap do Gai",
+            "url": "https://www.youtube.com/watch?v=i_NDEiPtnp8"
+          },
+          {
+            "titulo": "Rap do Naruto",
+            "url": "https://www.youtube.com/watch?v=ObQMysW58NA"
+          },
+          {
+            "titulo": "Rap do Kakashi",
+            "url": "https://www.youtube.com/watch?v=b4K1P8uQOcM"
+          }
+        ]
+      }
+    ]
+  }
